@@ -1,5 +1,7 @@
 # Assesment-CNS
 Automation Test
+All files are manually uploaded here.
+
 Framwork: Test NG
 Tool: Eclips IDE
 
