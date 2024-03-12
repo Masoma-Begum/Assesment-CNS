@@ -1,5 +1,6 @@
 # Assesment-CNS
 Automation Test
 Framwork: TestNG
-Tool: Eclips
+Tool: Eclips IDE
 
+How to run click on r
